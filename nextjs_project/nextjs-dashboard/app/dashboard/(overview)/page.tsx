@@ -9,7 +9,7 @@ import { RevenueChartSkeleton, InvoiceSkeleton, CardsSkeleton } from '@/app/ui/s
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Acme Dashboard',
+  title: 'Home',
 };
 
  
